@@ -1,6 +1,6 @@
-# hackerrank-react-calendar-component
+# hackerrank-react-calculator-component
 
-This is a clone of the [HackerRank Calendar Component](https://www.hackerrank.com/work/library/personal?copyscrape=true&question=938243&view=question)
+This is a clone of the [HackerRank Calculator Component](https://www.hackerrank.com/work/library/personal?copyscrape=true&question=938243&view=question)
 question that uses hooks instead of class components.
 
 ## Result should be displayed as
